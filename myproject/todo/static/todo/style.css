@@ -1,0 +1,7 @@
+body{
+    background-color: azure;
+}
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
